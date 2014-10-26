@@ -4,4 +4,4 @@ Git is a mutable index called stage.
 stupid boss!!!!
 
 
-createing a new branch is quick
+createing a new branch is quick & simple.
